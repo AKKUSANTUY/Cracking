@@ -66,8 +66,6 @@ except KeyboardInterrupt:
 
 	os.system('clear')
 
-	restart()
-
 from os import system as sis
 from time import sleep as waktu
 import sys
